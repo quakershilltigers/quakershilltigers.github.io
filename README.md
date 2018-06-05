@@ -4,7 +4,7 @@ You can use the [editor on GitHub](https://github.com/quakershilltigers/quakersh
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-![Under Construction](/images/Tiger-Under-Construction.jpg)
+![Under Construction](../images/Tiger-Under-Construction.jpg)
 
 ### Markdown
 
